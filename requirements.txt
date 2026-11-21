@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+pydantic
+# typesafe-sdk   # uncomment when you have a Jev key
